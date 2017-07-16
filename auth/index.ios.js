@@ -41,13 +41,13 @@ const styles = StyleSheet.create({
     welcome: {
         fontSize: 20,
         textAlign: 'center',
-        margin: 10,
+        margin: 10
     },
     instructions: {
         textAlign: 'center',
         color: '#333333',
-        marginBottom: 5,
-    },
+        marginBottom: 5
+    }
 });
 
 AppRegistry.registerComponent('auth', () => auth);
