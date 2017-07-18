@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9e8b120-8ed4-4a5a-a033-2b7d9df84b12" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/index.ios.js" afterPath="$PROJECT_DIR$/auth/index.ios.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/package.json" afterPath="$PROJECT_DIR$/auth/package.json" />
     </list>
     <ignored path="react-native-starter.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -355,12 +351,12 @@
       <workItem from="1499645256082" duration="2090000" />
       <workItem from="1499734730014" duration="13938000" />
       <workItem from="1499987345538" duration="591000" />
-      <workItem from="1500080441893" duration="1453000" />
+      <workItem from="1500080441893" duration="2059000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55299000" />
+    <option name="totallyTimeSpent" value="55905000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="27" width="1368" height="742" extended-state="6" />
